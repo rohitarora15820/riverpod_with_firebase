@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "825380063892",
+    "project_id": "freezedriverpod",
+    "storage_bucket": "freezedriverpod.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825380063892:android:f38109855efc843895c281",
+        "android_client_info": {
+          "package_name": "com.example.riverpod_with_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825380063892-j8dt892gf54bslc09otpq9p8nkml6qc4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkHgsJ8vgru3meHNPNWUG8GPEUVi2YWaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "825380063892-j8dt892gf54bslc09otpq9p8nkml6qc4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
